@@ -20,7 +20,7 @@ Son objectif principal est de [objectif principal du projet].
 
 ---
 
-## 🚀 Démarrage rapide
+##  Démarrage rapide
 
 ### Prérequis
 Avant de commencer, assure-toi d’avoir :
